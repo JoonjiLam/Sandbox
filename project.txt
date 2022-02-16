@@ -1,0 +1,4 @@
+make a:
+navbar horizontal
+footer
+body text
